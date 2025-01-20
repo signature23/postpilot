@@ -6,14 +6,14 @@ import herobg1 from "../assets/herobg1.png"
 
 const Herosection = () => {
     return (
-        <section className='bg-[#E0F8F2] w-screen pt-10 pb-6 h-screen'>
+        <section className='bg-[#E0F8F2] w-screen pt-10 pb-12 '>
 
             <div className='container flex flex-col justify-between mx-auto itms-center md:flex-row'>
                 <div className='w-1/2 pl-10 leading-none'>
                     <div>
                         <p className='text-[69px]'>
                             Meet your
-                            <span className='text-[#009387] font-handwritten font-cursive'> favorite</span> new (old) marketing channel.
+                            <span className='text-[#009387] font-Grace'> favorite</span> new (old) marketing channel.
                         </p>
                         <p className='text-[8px] my-4'>Remarkable results. Easier than email. Postcard marketing reinvented for modern ecommerce.</p>
                     </div>

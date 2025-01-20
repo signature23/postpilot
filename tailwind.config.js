@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily:{
         Inter:["Inter","serif"],
+        Grace:["Covered By Your Grace","serif"]
       }
     },
   },
