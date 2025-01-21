@@ -9,6 +9,8 @@ const ApiHome = () => {
 
         const fetchData = async () => {
 
+            
+
             try {
                 const res = await fetch(
                     "https://api.pewds.vercel.app/prothomalo/collection/politics?start_from=0&per_page=15"
