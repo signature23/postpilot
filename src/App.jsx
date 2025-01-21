@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
+// import ApiHome from './components/ApiHome'
 import Navbar from './components/Navbar'
 import Herosection from './components/Herosection'
 import Thousand from './components/Thousand'
@@ -12,6 +13,9 @@ function App() {
 
   return (
     <>
+    {/* <ApiHome/> */}
+
+
       <Navbar/>
       <Herosection/>
       <Thousand/>
